@@ -2,7 +2,7 @@
 
 Abschlussprojekt: Klassifikation von Krankheiten anhand des Darmmikrobioms.
 
-**Team:** Amine El Marouani, Slavica, Sahar
+**Team:** Slavica, Sahar, Amine
 
 ---
 
